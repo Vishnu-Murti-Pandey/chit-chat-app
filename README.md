@@ -1,13 +1,18 @@
 # Chit-Chat
 
-<h2>Tech Stack</h2>
+Chit-Chat is a Full Stack Chatting App. Uses Socket.io for real-time communication and stores user details in encrypted format in Mongo DB Database. You can add multiple user to create a group chat, and one-on-one chat is also possible.
 
-<h4>Client: React JS</h4>
+## Tech Stack
 
-<h4>Server: Node JS, Express JS</h4>
+### Client: React JS
 
-<h4>Database: Mongo DB</h4>
+### Server: Node JS, Express JS
 
-<h2>Demo</h2>
+### Database: Mongo DB
 
-<a href="https://chit-chat-puqa.onrender.com/" traget="_blank"></a>
+## Demo
+
+https://chit-chat-puqa.onrender.com/
+
+
+## Created By [@vishnu](https://github.com/Vishnu-Murti-Pandey/)
