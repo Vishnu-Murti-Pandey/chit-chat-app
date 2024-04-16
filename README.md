@@ -4,11 +4,13 @@ Chit-Chat is a Full Stack Chatting App. Uses Socket.io for real-time communicati
 
 ## Tech Stack
 
-### Client: React JS
+#### Client: React JS
 
-### Server: Node JS, Express JS
+#### Server: Node JS, Express JS
 
-### Database: Mongo DB
+#### Database: Mongo DB
+
+#### API Auth: JWT
 
 ## Demo
 
